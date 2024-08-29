@@ -1,4 +1,4 @@
-name: Deploy to Azure
+
   on:
   pull_request:
     branches: [ "main" ]
